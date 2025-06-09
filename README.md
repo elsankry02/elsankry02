@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
+  <img src="https://komarev.com/ghpvc/?username=elsankry02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankry02" />
 </p>
 
 - 🌱 I’m currently improving my skills in **Flutter** and **Dart**.
-- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/elsankary02).
+- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/elsankry02).
 - 💬 Ask me about **Flutter and Dart**.
 - 📫 How to reach me: **mohamedelsankary14@gmail.com**.
 - ⚡ Fun fact: **I code with a sense of humor!** 😄
