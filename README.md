@@ -10,7 +10,7 @@
 - 🌱 I’m currently improving my skills in **Flutter** and **Dart**.
 - 👨‍💻 All of my projects are available on [My GitHub](https://github.com/elsankry02).
 - 💬 Ask me about **Flutter and Dart**.
-- 📫 How to reach me: **mohamedelsankary14@gmail.com**.
+- 📫 How to reach me: **elsankry02@gmail.com**.
 - ⚡ Fun fact: **I code with a sense of humor!** 😄
 
 <h3 align="left">Connect with me:</h3>
