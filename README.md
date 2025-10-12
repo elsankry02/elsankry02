@@ -1,7 +1,7 @@
 [![MasterHead](<https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif>)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ebrahim</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Mansoura , Egypt</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=elsankry02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankry02" />
