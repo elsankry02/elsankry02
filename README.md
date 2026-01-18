@@ -40,8 +40,8 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc_red.svg" alt="Bloc" width="40" height="40"/>
+ <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" width="40" height="40"/>
   </a>
   <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
     <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/>
