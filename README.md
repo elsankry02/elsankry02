@@ -36,7 +36,10 @@
 <h3 align="left">State Management:</h3>
 <p align="left">
   <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" alt="Bloc" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/cubit_logo_full.png" alt="Cubit" width="40" height="40"/>
+  </a>
+  <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/logo.png" alt="Provider" width="40" height="40"/>
   </a>
   <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
     <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/>
