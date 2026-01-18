@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Frameworks & Languages:</h3>
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
@@ -31,31 +31,36 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
- <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" width="40" height="40"/>
+</p>
+
+<h3 align="left">State Management:</h3>
+<p align="left">
+  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" alt="Bloc" width="40" height="40"/>
   </a>
   <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
     <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Backend & Tools:</h3>
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
   </a>
 </p>
