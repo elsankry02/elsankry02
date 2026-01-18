@@ -40,8 +40,6 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-<h3 align="left">State Management & Tools:</h3>
-<p align="left">
   <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc_red.svg" alt="Bloc" width="40" height="40"/>
   </a>
