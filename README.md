@@ -31,9 +31,6 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">State Management:</h3>
