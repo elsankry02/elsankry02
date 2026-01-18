@@ -40,4 +40,24 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+<h3 align="left">State Management & Tools:</h3>
+<p align="left">
+  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc_red.svg" alt="Bloc" width="40" height="40"/>
+  </a>
+  <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
+    <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
+  </a>
 </p>
