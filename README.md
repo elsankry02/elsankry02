@@ -31,26 +31,23 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">State Management:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-       alt="Cubit"
-       width="40"
-       height="40"/>
-
-  <img src="https://raw.githubusercontent.com/rrousselGit/riverpod/master/resources/riverpod_icon.svg"
-       alt="Riverpod"
-       width="40"
-       height="40"/>
-
-  <img src="https://avatars.githubusercontent.com/u/78510733?s=200&v=4"
-       alt="Provider"
-       width="40"
-       height="40"/>
+  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" style="display:none;"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" alt="Cubit" width="40" height="40"/>
+  </a>
+  <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/logo.png" alt="Provider" width="40" height="40"/>
+  </a>
+  <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
+    <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/>
+  </a>
 </p>
-
 
 <h3 align="left">Backend & Tools:</h3>
 <p align="left">
