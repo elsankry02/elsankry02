@@ -43,8 +43,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsankry02&theme=dark&show_icons=true&locale=en&layout=compact"
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=dark&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=dark&hide_border=true"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsankry02&theme=dark&show_icons=true&locale=en"
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark"
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
