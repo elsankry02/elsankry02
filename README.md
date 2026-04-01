@@ -44,10 +44,10 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=dark&hide_border=true"
-  <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=dark&hide_border=true"
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=dark" height="165" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark" />
 </p>
