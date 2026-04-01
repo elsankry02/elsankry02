@@ -41,8 +41,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsankry02&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsankry02&theme=dark&show_icons=true&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&theme=dark&show_icons=true" alt="GitHub Stats" height="165" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsankry02&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark" alt="GitHub Streak" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark" alt="GitHub Streak" />
+</p>
