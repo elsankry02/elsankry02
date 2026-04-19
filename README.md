@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge&logo=codementor&logoColor=white" />
   
   <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
   
   <img src="https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/SDLC-444444?style=for-the-badge&logo=diagrams.net&logoColor=white" />
