@@ -37,9 +37,16 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/DIO-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge&logo=codementor&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDLC-444444?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCALIZATION-5D2D91?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
