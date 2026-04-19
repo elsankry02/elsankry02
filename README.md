@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:elsankry02@gmail.com">
+  <a href="elsankry02@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
