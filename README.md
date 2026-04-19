@@ -15,7 +15,7 @@
 
 ---
 
-## 📱 Mobile Development
+## 📱 Mobile Development :
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tools & Practices
+## 🛠 Tools & Practices :
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with me :
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="_blank">
