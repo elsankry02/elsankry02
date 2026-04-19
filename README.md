@@ -48,19 +48,19 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" width="100%">
+<table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
