@@ -23,28 +23,47 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+# 👋 Hi, I'm Mahmoud
+
+📱 Mobile Developer | Flutter Enthusiast  
+🚀 Passionate about building scalable and clean apps  
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+## 📱 Mobile Development
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![REST API](https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=dark" alt="GitHub Streak" />
-</p>
+---
 
+## 🛠 Tools & Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-6C63FF?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-3F51B5?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Currently Learning
+- Advanced Flutter Architecture  
+- State Management (Cubit / Provider)  
+- Backend Integration  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/)
