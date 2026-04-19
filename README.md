@@ -12,7 +12,11 @@
 - 💬 Ask me about **Flutter and Dart**.
 - 📫 How to reach me: **elsankry02@gmail.com**.
 - ⚡ Fun fact: **I code with a sense of humor!** 😄
-
+### 🛠️ Working On
+- [cite_start]🔭 I’m currently improving my skills in **Flutter** and **Dart**.
+- [cite_start]📂 All of my projects like **Lady Driver** and **Food Ninja** are available on my GitHub[cite: 62, 69].
+- [cite_start]💬 Ask me about **Mobile Development**, **Clean Architecture**, and **MVVM**[cite: 50, 51].
+- [cite_start]📫 How to reach me: [elsankry02@gmail.com](mailto:elsankry02@gmail.com)[cite: 47].
 ---
 
 ### 📱 Mobile Development :
