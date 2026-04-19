@@ -15,23 +15,34 @@
 
 ---
 
-## 📱 Mobile Development :
+### 📱 Mobile Development :
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![REST API](https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
 
----
+### 🏗️ Architecture & State Management :
 
-## 🛠 Tools & Practices :
+<p align="left">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=google-keep&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLOC-02569B?style=for-the-badge&logo=bloc&logoColor=white" />
+  <img src="https://img.shields.io/badge/RIVERPOD-000000?style=for-the-badge&logo=riverpod&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-6C63FF?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-3F51B5?style=for-the-badge)
+### 🛠️ Tools & Practices :
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DIO-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge&logo=codementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCALIZATION-5D2D91?style=for-the-badge&logo=google-translate&logoColor=white" />
+</p>
 
 ---
 
