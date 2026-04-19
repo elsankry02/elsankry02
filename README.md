@@ -23,11 +23,6 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Mahmoud
-
-📱 Mobile Developer | Flutter Enthusiast  
-🚀 Passionate about building scalable and clean apps  
-
 ---
 
 ## 📱 Mobile Development
@@ -52,9 +47,15 @@
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsankry02&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsankry02&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elsankry02&theme=tokyonight&utcOffset=2)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankry02&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsankry02&theme=tokyonight)
 
 ---
 
