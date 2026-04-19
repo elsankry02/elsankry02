@@ -53,3 +53,22 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/elsankry02" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" />
+  </a>
+
+</p>
