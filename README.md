@@ -45,17 +45,16 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsankry02&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Langs" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsankry02&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elsankry02&theme=tokyonight&utcOffset=2)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankry02&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsankry02&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
