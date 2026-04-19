@@ -46,31 +46,23 @@
 
 ---
 
-### 📊 GitHub Stats :
+### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Langs" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🤝 Connect with me :
