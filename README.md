@@ -35,7 +35,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=google-keep&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLOC-02569B?style=for-the-badge&logo=bloc&logoColor=white" />
   <img src="https://img.shields.io/badge/RIVERPOD-000000?style=for-the-badge&logo=riverpod&logoColor=white" />
   <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
